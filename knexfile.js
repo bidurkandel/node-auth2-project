@@ -26,3 +26,4 @@ module.exports = {
     connection: { filename: './data/testing.db3' },
   },
 }
+
